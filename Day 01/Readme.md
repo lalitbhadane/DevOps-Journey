@@ -13,7 +13,7 @@
 - `mkdir` : make a new directory
 - `rm`    : Remove file or directory
 - `cp`    : Copy file
-- `mv`    : Move fileor directory
+- `mv`    : Move file or directory
 
 ### Path Types:
 - `absolute path` : provides the full path from the root directory (/).
