@@ -1,4 +1,5 @@
 # Linux Basics Journey
+*Day 02 : 09 July*
 
 📅 This repo documents my Linux learning journey as part of my path toward mastering DevOps and AWS.
 
