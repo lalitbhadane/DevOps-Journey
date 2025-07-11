@@ -36,7 +36,7 @@
 - Used advanced `usermod` options for group/home/shell
 - Explored and configured shell history
 
-🖥️ See full commands here → `day4_practice.sh`
+🖥️ See full commands here → [`day4_practice.sh`](./day4_practice.sh)
 
 ## 💬 Reflections:
 - `ps` command’s flexibility is underrated
