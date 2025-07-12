@@ -47,7 +47,7 @@ Built a **mini system monitor script** using:
 - Real-time log tailing
 - `journalctl` with filtering
 
-🖥️ All commands available in: [`day5_linux_practice.sh`](./day5_practice.sh)
+🖥️ All commands available in: [`day5_practice.sh`](./day5_practice.sh)
 
 ---
 
