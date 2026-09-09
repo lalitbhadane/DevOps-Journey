@@ -1,4 +1,4 @@
-# 🧠 Linux & DevOps – Learning Journey
+# 🧠 Linux & DevOps – Learning Journey Latest
 
 Welcome to my daily log of learning Linux and DevOps! This repo documents my hands-on practice, notes, and reflections as I work toward becoming job-ready in the AWS Cloud & DevOps space.
 
